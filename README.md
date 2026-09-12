@@ -6,6 +6,8 @@
 ![privacy](https://img.shields.io/badge/data-local%20only-lightgrey)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
+**Live demo:** [dairify.netlify.app](https://dairify.netlify.app/)
+
 A 24-hour activity tracker that treats your day as a timeline, not a list.
 Log what you did, when, and for how long; Dairify turns it into a visual
 timeline, a donut breakdown, and running stats — with an optional PIN lock
